@@ -1,4 +1,12 @@
 # E-Commerce
+
+**Description**
+
+Developed an E-Commerce iOS app in Swift which consists of user authentication, product list of variety of furnitures. 
+Integrated more than 10 API's to achieve functionality of ordering and maintaining products.
+The Backend consists of 7 different microServices and is implemented using SpringBoot, MySQL, MongoDB, Kafka, Hibernate and Elastic Search.
+User gets an auto-generated email consisting of all relevant details after successfully placing order.
+
 **Some glimpse of the App**
 
 **Login Screen**
