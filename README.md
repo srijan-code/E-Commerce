@@ -1,5 +1,5 @@
 # E-Commerce
-Some glimpse of the App
+**Some glimpse of the App**
 **Login Screen**
 <img src="https://user-images.githubusercontent.com/68854742/187079279-776f5036-9110-48ce-8708-602bd5d51780.jpeg" width="300" height="500">
 
